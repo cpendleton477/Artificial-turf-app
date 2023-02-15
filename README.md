@@ -1,1 +1,5 @@
-# Artificial-turf-app
+- 👋 Hello ... I'm cpendleton477
+- 🍃 I'm interested in ... serving my artificial turf customers
+- 🧠 I'm currently learning ... how to write code for my artificial turf software
+- 👀 I'm looking to collaborate on ... writing code for my artificial turf software
+- 📬 How to reach me ... vist my <a href="https://www.sandiegoturfca.com">Artificial Turf Installation</a> website
